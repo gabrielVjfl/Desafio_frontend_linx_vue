@@ -32,7 +32,7 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 # Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JS 
-- React
+- Vue
 
 ## Dependências
 - Axios
