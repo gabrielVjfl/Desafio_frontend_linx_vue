@@ -16,8 +16,6 @@ export default {
 }
 </script>
 <style>
-* {
-  align-items: center;
-}
+
 </style>
 
